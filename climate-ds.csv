@@ -1,0 +1,9 @@
+Data Dictionary,
+,
+Area,The Country name is provided in this column .
+Item,The type of Crop that has been cultivated.
+Year,The year in which the cultivation happened.
+average_rain_fall_mm_per_year,The Average rain fall in the area.
+pesticides_tonnes,The amount of pesticides that are used on the crop.
+avg_temp,The mean of the temperature in the particular area at that particular period of the Year.
+hg/ha_yield,This is the percentage of the produced crop yield at that period.
